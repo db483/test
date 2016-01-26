@@ -13,6 +13,8 @@ public class Test {
 		
 		FancyMessage fancyMessage = new FancyMessage(text, owner);
 		System.out.println(fancyMessage.toString());
+		
+		System.out.println("finished testing");
 	}
 
 }
