@@ -8,7 +8,7 @@ public class FancyMessage extends Message {
 	
 	@Override
 	public String toString() {
-	 return getOwner() + " sends you this message: " + getMessage();
+	 return getOwner() + " sends you this fancy message: " + getMessage();
 	}
 
 }
