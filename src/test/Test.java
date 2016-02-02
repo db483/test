@@ -14,8 +14,6 @@ public class Test {
 		FancyMessage fancyMessage = new FancyMessage(text, owner);
 		System.out.println(fancyMessage.toString());
 		
-		System.out.println("KFSPTS-7000");
-		
 		System.out.println("finished testing");
 	}
 
